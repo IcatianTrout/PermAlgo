@@ -16,3 +16,5 @@ Packaged: 2015-04-01 13:15:37 UTC; Dan
 Repository: CRAN
 Date/Publication: 2015-04-02 00:11:52
 NeedsCompilation: no
+Imports:
+    methods
